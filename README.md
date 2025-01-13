@@ -1,2 +1,3 @@
 # OrtalamaHesaplama
-`academy.patika.dev` içerisindeki "C# Projeler" dersinde "Ortalama Hesaplama" adlı proje için oluşturulmuştur.
+ - `academy.patika.dev` içerisindeki "C# Projeler" dersinde "Ortalama Hesaplama" adlı proje için oluşturulmuştur.
+ - `OrtalamaHesaplama.cs` ve `README.md` dosyası içerir.
